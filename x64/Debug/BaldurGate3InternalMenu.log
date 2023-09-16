@@ -1,0 +1,3 @@
+﻿  Utils.cpp
+D:\repos\BaldurGate3InternalMenu\Utils.cpp(167): warning C4715: 'Utils::FindAllPatterns': not all control paths return a value
+  BaldurGate3InternalMenu.vcxproj -> D:\repos\BaldurGate3InternalMenu\x64\Debug\BaldurGate3InternalMenu.dll

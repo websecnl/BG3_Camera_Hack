@@ -7,7 +7,9 @@ https://www.youtube.com/watch?v=UbyLu-yQYj4
 
 This project is the same thing as: https://github.com/shalzuth/BG3Cam
 
-Only difference is that we made a ImGui variant of it.
+So Special Thanks to @shalzuth for the inspiration :)
+
+The main difference between his code and ours is that we made a ImGui variant of it (Interactable from within the game instead of outside the game).
 
 
 # Usage
